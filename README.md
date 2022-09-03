@@ -1,1 +1,1 @@
-# nearContracts
+# Smart contracts for NEAR
